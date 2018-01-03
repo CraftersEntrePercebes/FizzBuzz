@@ -15,13 +15,7 @@ N.B.: gracias a los repos de https://github.com/12meses12katas y https://github.
 Es necesario venir con tu portátil, tu IDE favorito instalado y con un entorno básico ya configurado. Para esto último podéis usar los esqueletos existentes en el repositorio www.github.com/CraftersEntrePercebes/esqueletos-katas (a continuación explicamos cómo usarlos).
 
 ## Cómo montar el entorno
-Evidentemente puedes hacerlo como quieras, pero de cara a poder compartir tu código con otras personas, te recomendamos los siguientes pasos:
-1. Haz un fork de este repositorio (ver botón "Fork" en la esquina superior derecha de GitHub).
-2. Clónate el repositorio en local de esta kata, ya sea con tu cliente de Git favorito o desde terminal con `git clone git@github.com:<TuCuenta>/FizzBuzz.git`
-3. Crea una carpeta con tu nombre o nick.
-4. Si no quieres prepararlo por tu cuenta, clónate el repositorio de esqueletos: `git clone git@github.com:CraftersEntrePercebes/EsqueletosKatas.git`
-5. Copia el esqueleto concreto que te interese
-
+Evidentemente puedes hacerlo como quieras, pero de cara a poder compartir tu código con otras personas, te recomendamos que sigas los pasos explicados aquí:
 
 ## Reglas
 * Se deberá **trabajar en parejas**. Si hubier un número impar de personas, se pondrá en trieja. Lo ideal sería crear parejas combinando gente con más experiencia en general (ya sea en testing o en desarrollo de software) con gente con menos.
