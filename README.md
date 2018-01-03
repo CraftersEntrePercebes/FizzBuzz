@@ -1,6 +1,7 @@
 # Kata FizzBuzz
 
 Descripción de la kata: http://www.solveet.com/exercises/Kata-FizzBuzz/11
+
 N.B.: gracias a los repos de https://github.com/12meses12katas y https://github.com/SoftwareCraftersMadrid por la inspiración ;-)
 
 
